@@ -1,0 +1,12 @@
+{
+  "AppSyncApiName": "LasNotas",
+  "DynamoDBBillingMode": "PAY_PER_REQUEST",
+  "DynamoDBEnableServerSideEncryption": false,
+  "AuthModeLastUpdated": "2023-10-03T01:06:54.444Z",
+  "AuthCognitoUserPoolId": {
+    "Fn::GetAtt": [
+      "authLasNotas",
+      "Outputs.UserPoolId"
+    ]
+  }
+}

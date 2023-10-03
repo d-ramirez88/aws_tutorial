@@ -1,0 +1,20 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-lasnotas-staging-03216-authRole",
+      "UnauthRoleArn": "arn:aws:iam::592718721613:role/amplify-lasnotas-staging-03216-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::592718721613:role/amplify-lasnotas-staging-03216-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-lasnotas-staging-03216-deployment",
+      "UnauthRoleName": "amplify-lasnotas-staging-03216-unauthRole",
+      "StackName": "amplify-lasnotas-staging-03216",
+      "StackId": "arn:aws:cloudformation:us-east-1:592718721613:stack/amplify-lasnotas-staging-03216/a4292cd0-5e5f-11ee-83fc-0a0bc516420b",
+      "AmplifyAppId": "dugbbbmkizfqc"
+    },
+    "categories": {
+      "auth": {
+        "LasNotas": {}
+      }
+    }
+  }
+}
